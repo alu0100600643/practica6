@@ -1,4 +1,3 @@
-
 require "./gcd.rb"
 
 class Fraccion
@@ -121,4 +120,4 @@ class Fraccion
 	end
 end	
 
-puts fr = Fraccion.new(8, 16)
+
